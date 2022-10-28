@@ -3,4 +3,5 @@
     <string name="nombre">Ingrese el nombre</string>
     <string name="apellido">Ingrese el apellido</string>
     <string name="btnSalvar">Salvar</string>
+    <string name="btnVerLista">Ver Lista</string>
 </resources>

@@ -12,6 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tarea3PM1"
         tools:targetApi="31">
+
+        <activity
+            android:name=".ActivityList"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
