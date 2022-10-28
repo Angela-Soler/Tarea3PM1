@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea3PM1</string>
+    <string name="nombre">Ingrese el nombre</string>
+    <string name="apellido">Ingrese el apellido</string>
+    <string name="btnSalvar">Salvar</string>
+</resources>
